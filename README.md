@@ -1,5 +1,11 @@
 # Laravel 10 - Apparance
 
+### Created By
+    Reynaldy Marchell Bagas Adji
+    Reynaldo Marchell Bagas Adji
+    Stanislaus Kanaya Jerry Febriano
+    Aaron Kenny Rijadi
+    
 ## Screenshots
 
 ### Home
