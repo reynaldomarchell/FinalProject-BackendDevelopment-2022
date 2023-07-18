@@ -1,4 +1,4 @@
-# Laravel 10 - Toko Online
+# Laravel 10 - Apparance
 
 ## Screenshots
 
@@ -26,43 +26,43 @@
 
 3. Rename .env.example with .env then edit database and api key
 
-4.
+4. Open terminal and type
 
 ```bash
     composer install --ignore-platform-req=ext-gd
 ```
 
-5.
+5. Generate key
 
 ```bash
     php artisan key:generate
 ```
 
-6.
+6. Migrate the database
 
 ```bash
     php artisan migrate:fresh --seed
 ```
 
-7.
+7. Create storage link to public
 
 ```bash
     php artisan storage:link
 ```
 
-8.
+8. Type
 
 ```bash
     npm install
 ```
 
-9.
+9. Type
 
 ```bash
     npm run dev
 ```
 
-10.
+10. While the node server running, open new terminal and type
 
 ```bash
     php artisan serve
