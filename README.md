@@ -2,7 +2,8 @@
 
 ## Screenshots
 
-![preview img](/preview.png)
+![preview img](/previewHome.png)
+![preview img](/previewAdmin.png)
 
 ## Donwload
 
