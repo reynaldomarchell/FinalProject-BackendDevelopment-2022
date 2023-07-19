@@ -1,11 +1,12 @@
 # Laravel 10 - Apparance
 
 ### Created By
+
     Reynaldy Marchell Bagas Adji
     Reynaldo Marchell Bagas Adji
     Stanislaus Kanaya Jerry Febriano
     Aaron Kenny Rijadi
-    
+
 ## Screenshots
 
 ### Home
@@ -21,13 +22,13 @@
 1. Clone this project
 
 ```bash
-  git https://github.com/reynaldomarchell/FinalProject-BackendDevelopment-2022.git project_name
+  git https://github.com/reynaldomarchell/FinalProject-BackendDevelopment-2022.git apparance
 ```
 
-2.  Go to the directory of your project
+2.  Go to the directory of this project
 
 ```bash
-  cd project_name
+  cd apparance
 ```
 
 3. Rename .env.example with .env then edit the database and api key
@@ -82,5 +83,5 @@
 NOTES: After you log in with admin account, you will be redirect to home page. If you want to open admin panel just type the directory
 
 ```bash
-    http://127.0.0.1:8000/admin/dashboard 
+    http://127.0.0.1:8000/admin/dashboard
 ```
