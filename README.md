@@ -1,5 +1,11 @@
 # Laravel 10 - Apparance
 
+### Created By
+    Reynaldy Marchell Bagas Adji
+    Reynaldo Marchell Bagas Adji
+    Stanislaus Kanaya Jerry Febriano
+    Aaron Kenny Rijadi
+    
 ## Screenshots
 
 ### Home
@@ -76,5 +82,5 @@
 NOTES: After you log in with admin account, you will be redirect to home page. If you want to open admin panel just type the directory
 
 ```bash
-    http://127.0.0.1:8000/admin/dashboard
+    http://127.0.0.1:8000/admin/dashboard 
 ```
