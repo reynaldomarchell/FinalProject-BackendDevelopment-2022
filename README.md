@@ -10,7 +10,7 @@
 
 ![preview img](/previewAdmin.png)
 
-## Donwload
+## Deploy
 
 1. Clone this project
 
@@ -24,7 +24,7 @@
   cd project_name
 ```
 
-3. Rename .env.example with .env then edit database and api key
+3. Rename .env.example with .env then edit the database and api key
 
 4. Open terminal and type
 
@@ -50,19 +50,19 @@
     php artisan storage:link
 ```
 
-8. Type
+8. Install npm
 
 ```bash
     npm install
 ```
 
-9. Type
+9. Run node server
 
 ```bash
     npm run dev
 ```
 
-10. While the node server running, open new terminal and type
+10. While node server running, open new terminal and type
 
 ```bash
     php artisan serve
@@ -70,11 +70,10 @@
 
 #### Login
 
--   email = admin@admin.com
--   password = 123
+-   Email = admin@admin.com
+-   Password = 123
 
-    NOTES: After you log in with admin account, you will be redirect to home page.
-    If you want go to admin panel just type the directory
+NOTES: After you log in with admin account, you will be redirect to home page. If you want to open admin panel just type the directory
 
 ```bash
     http://127.0.0.1:8000/admin/dashboard
