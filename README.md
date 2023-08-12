@@ -22,7 +22,7 @@
 1. Clone this project
 
 ```bash
-  git https://github.com/reynaldomarchell/FinalProject-BackendDevelopment-2022.git apparance
+  git clone https://github.com/reynaldomarchell/FinalProject-BackendDevelopment-2022.git apparance
 ```
 
 2.  Go to the directory of this project
